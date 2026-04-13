@@ -44,7 +44,6 @@ General Motors, Boeing, Caterpillar, Honeywell, RTX/Pratt & Whitney, Ford, Chrys
 - [Services](https://info-tech-services.com/services.html)
 - [AI for Manufacturing](https://info-tech-services.com/ai-for-manufacturing.html)
 - [Case Studies](https://info-tech-services.com/case-study.html)
-- [Technology Stack](https://info-tech-services.com/stack.html)
 - [Credentials](https://info-tech-services.com/credentials.html)
 - [About](https://info-tech-services.com/about.html)
 - [Contact](https://info-tech-services.com/contact.html)
