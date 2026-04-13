@@ -1,0 +1,50 @@
+# Info-Tech-Services
+> Management, operations, and maintenance consulting paired with AI-enhanced technology. Toyota Production System discipline meets production-grade AI, for mid-market and enterprise manufacturers. Based in San Diego, California.
+
+## About
+Info-Tech-Services (Infotech Inc.) is a consulting and technology firm focused on operational excellence, lean manufacturing, reliability engineering, and AI for manufacturing. We pair Toyota Production System practitioners with engineers who ship production-grade software. Every engagement locks KPIs before kickoff and reports against them weekly.
+
+## Key Facts
+- Based in San Diego, California
+- 20+ years of plant-floor experience
+- 300+ operational excellence projects delivered
+- 95% client success rate
+- 50+ industries served
+- Notable cost avoidance: $400M+ on planned heavy O&G equipment purchases (single engagement)
+- Notable OEE gains: +12% OEE, 88% space savings, 97% WIP cut, 93% shorter lead times on a 95,000 sq ft steel fabrication re-engineering
+
+## Capabilities
+- Toyota Production System: Jidoka, JIT, Kanban, Heijunka, Poka-Yoke, Andon, 5S, Standardized Work, Kaizen, VSM
+- Lean Six Sigma: DMAIC, SPC, process capability, DOE, Green and Black Belt programs
+- Operational Excellence (OpEx) programs with KPI-locked delivery
+- Total Productive Maintenance (TPM) and Reliability-Centered Maintenance (RCM)
+- IT Strategy and CIO Advisory for Manufacturing
+- AI for Manufacturing: predictive maintenance, computer vision quality inspection, schedule optimization, generative copilots, digital twins, autonomous agents
+- Custom Manufacturing Software Development: MES, shop-floor apps, dashboards
+- Cloud Architecture & Migration (AWS, Azure, GCP)
+- Data Engineering & Analytics (historian integration, lakehouse, real-time)
+- Business Intelligence and KPI reporting
+- MRP / ERP / MES Implementation
+- Systems Integration and Legacy Modernization
+- DevOps & SRE for Regulated Manufacturing
+
+## Industries Served
+Heavy Mining Equipment; Oil & Gas (upstream / midstream); Automotive; Aerospace; Paper & Pulp; Energy & Power Distribution; Consumer Products; Forging & Castings; Medical manufacturing; Robotics; Electronics; Entertainment; International deployments.
+
+## Selected Clients
+General Motors, Boeing, Caterpillar, Honeywell, RTX/Pratt & Whitney, Ford, Chrysler, Bosch, Visteon, Delphi, Rolls Royce, Sikorsky, Mitsubishi, Komatsu, General Electric, Suncor, Marathon Oil, SDG&E, UGI, Georgia Pacific, Resolute, Masco, Mallinckrodt, Baxter International, Stryker, Microsoft, Qualcomm, Square D, Mercury EMS, FSI International, COHU, Delta Electronics, Kawasaki, Caesars Entertainment, Walmart, Cheese Cake Factory, Little Caesars Pizza, Conagra, Dole Food Company, and more.
+
+## Contact
+- Website: https://info-tech-services.com
+- Email: info@info-tech-services.com
+- Phone: (702) 278-8005
+- Location: San Diego, California
+
+## Links
+- [Services](https://info-tech-services.com/services.html)
+- [AI for Manufacturing](https://info-tech-services.com/ai-for-manufacturing.html)
+- [Case Studies](https://info-tech-services.com/case-study.html)
+- [Technology Stack](https://info-tech-services.com/stack.html)
+- [Credentials](https://info-tech-services.com/credentials.html)
+- [About](https://info-tech-services.com/about.html)
+- [Contact](https://info-tech-services.com/contact.html)

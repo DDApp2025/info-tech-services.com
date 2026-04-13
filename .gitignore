@@ -3,3 +3,8 @@ Thumbs.db
 *.log
 .vscode/
 .idea/
+_prompt-*.docx
+_prompt-*.md
+_build_*.py
+~$*
+~WRL*.tmp

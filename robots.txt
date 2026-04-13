@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# AI/LLM Crawlers — Allow access for AI Overview visibility
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://info-tech-services.com/sitemap.xml
