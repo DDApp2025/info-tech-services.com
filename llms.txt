@@ -1,11 +1,11 @@
 # Info-Tech-Services
-> Management, operations, and maintenance consulting paired with AI-enhanced technology. Toyota Production System discipline meets production-grade AI, for mid-market and enterprise manufacturers. Based in San Diego, California.
+> Management, operations, and maintenance consulting paired with AI-enhanced technology. Toyota Production System discipline meets production-grade AI, for mid-market and enterprise manufacturers. Based in Las Vegas, NV.
 
 ## About
 Info-Tech-Services (Infotech Inc.) is a consulting and technology firm focused on operational excellence, lean manufacturing, reliability engineering, and AI for manufacturing. We pair Toyota Production System practitioners with engineers who ship production-grade software. Every engagement locks KPIs before kickoff and reports against them weekly.
 
 ## Key Facts
-- Based in San Diego, California
+- Based in Las Vegas, NV
 - 20+ years of plant-floor experience
 - 300+ operational excellence projects delivered
 - 95% client success rate
@@ -38,7 +38,7 @@ General Motors, Boeing, Caterpillar, Honeywell, RTX/Pratt & Whitney, Ford, Chrys
 - Website: https://info-tech-services.com
 - Email: info@info-tech-services.com
 - Phone: (702) 278-8005
-- Location: San Diego, California
+- Location: Las Vegas, NV
 
 ## Links
 - [Services](https://info-tech-services.com/services.html)
